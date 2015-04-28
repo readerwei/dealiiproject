@@ -1,0 +1,8 @@
+/home/wei/GitHub/readerwei/dealiiproject/step-20/CMakeFiles/debug.dir
+/home/wei/GitHub/readerwei/dealiiproject/step-20/CMakeFiles/distclean.dir
+/home/wei/GitHub/readerwei/dealiiproject/step-20/CMakeFiles/info.dir
+/home/wei/GitHub/readerwei/dealiiproject/step-20/CMakeFiles/release.dir
+/home/wei/GitHub/readerwei/dealiiproject/step-20/CMakeFiles/run.dir
+/home/wei/GitHub/readerwei/dealiiproject/step-20/CMakeFiles/runclean.dir
+/home/wei/GitHub/readerwei/dealiiproject/step-20/CMakeFiles/step-20.dir
+/home/wei/GitHub/readerwei/dealiiproject/step-20/CMakeFiles/strip_comments.dir
