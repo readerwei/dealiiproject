@@ -1,0 +1,8 @@
+/home/wei/dealii/project/CMakeFiles/debug.dir
+/home/wei/dealii/project/CMakeFiles/distclean.dir
+/home/wei/dealii/project/CMakeFiles/info.dir
+/home/wei/dealii/project/CMakeFiles/myproject.dir
+/home/wei/dealii/project/CMakeFiles/release.dir
+/home/wei/dealii/project/CMakeFiles/run.dir
+/home/wei/dealii/project/CMakeFiles/runclean.dir
+/home/wei/dealii/project/CMakeFiles/strip_comments.dir
